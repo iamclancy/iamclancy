@@ -1,6 +1,5 @@
 ## Bem vindo ao meu perfil 
-Meu nome é iamclancy
-
+Meu nome é victor (iamclancy)
 Estou estudando na Alura
 
 Estou me desenvolvendo na linguagem JavaScript
